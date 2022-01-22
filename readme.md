@@ -19,3 +19,7 @@ You can check the list of teammates, and their details.
 ## Built-in group chat
 
 Text to members in a built-in group chat.
+
+## Check this video to see how it works:
+
+Youtube: https://youtu.be/cdwOn_FVBLU
